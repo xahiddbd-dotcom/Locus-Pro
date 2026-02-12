@@ -1,0 +1,7 @@
+{
+  "name": "Locus Pro - Smart Offline Finder",
+  "description": "A high-performance location tracking and sharing tool with offline-ready coordinate sharing and AI-powered neighborhood insights.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
